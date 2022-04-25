@@ -8,7 +8,7 @@ import copyme.globalvars.Global;
  */
 public class Lightning extends Spell{
     public Lightning(){
-        super("Lightning",false,false, 30, 60, 5, "Select an enemy and strike it with lightning", "file:textures/lightning.png");
+        super("Lightning",false,true, 30, 60, 5, "Select an enemy and strike it with lightning", "file:textures/lightning.png");
     }
 
     @Override
