@@ -291,6 +291,9 @@ public class FieldController {
                         concatMe.append("0 :-> Heroic Strike"+space8);
                         for (int i = 0; i < Global.player.spells.length; i++) {
                             concatMe.append((i + 1) + " :-> " + Global.player.spells[i].getName() + space8);
+                            if (i==4){
+                                concatMe.append(nl);
+                            }
                         }
                     } else {
                         concatMe.append("W :-> UP" + space8);

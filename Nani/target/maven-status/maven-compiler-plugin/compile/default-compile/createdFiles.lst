@@ -3,8 +3,8 @@ copyme/unitclass/Berserker.class
 copyme/unitclass/Archer.class
 copyme/controls/MyCursor.class
 copyme/unitclass/Griff.class
-copyme/nani/Main.class
 copyme/hero/Attack.class
+copyme/nani/Main.class
 copyme/hero/Spell.class
 copyme/nani/HelloApplication.class
 module-info.class
@@ -20,8 +20,8 @@ copyme/nani/HelloController.class
 copyme/hero/Destruction.class
 copyme/hero/Salvation.class
 copyme/field/MyMap.class
-copyme/globalvars/Global.class
 copyme/controls/FieldController.class
+copyme/globalvars/Global.class
 copyme/hero/Lightning.class
 copyme/controls/MyLoader$1.class
 copyme/nani/HelloApplication$1.class

@@ -115,7 +115,7 @@ public class MyLoader {
             if (Global.player.army[i-2]!=null){
                 Global.fieldStatsPlayer[i].setText(":"+Global.player.army[i-2].getCurrentArmyNumber()+":");
                 Global.fieldStatsPlayer[i].setX(60+((i-2)*80));
-                Global.fieldStatsPlayer[i].setY(220);
+                Global.fieldStatsPlayer[i].setY(228);
                 Global.root.getChildren().add(Global.fieldStatsPlayer[i]);
 
 
